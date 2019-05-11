@@ -1,0 +1,1 @@
+"devtools/bin/premake5/win32/premake5.exe" vs2019
